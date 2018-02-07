@@ -1,0 +1,2 @@
+# Jackypot-slot
+Ethereum contract  
